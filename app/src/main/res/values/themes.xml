@@ -1,10 +1,10 @@
 <resources>
     <style name="Theme.BanglaRead" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">#0E0C0A</item>
-        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenAnimatedIcon">@android:drawable/sym_def_app_icon</item>
         <item name="postSplashScreenTheme">@style/Theme.BanglaRead.Main</item>
     </style>
-    <style name="Theme.BanglaRead.Main" parent="Theme.Material3.Dark.NoActionBar">
+    <style name="Theme.BanglaRead.Main" parent="@android:style/Theme.DeviceDefault.NoActionBar">
         <item name="android:windowBackground">#0E0C0A</item>
     </style>
 </resources>
