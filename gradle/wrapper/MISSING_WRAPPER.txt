@@ -1,0 +1,5 @@
+Could not auto-download gradle-wrapper.jar.
+Run this in the project root to fix it:
+  gradle wrapper --gradle-version 8.9
+Or download manually from:
+  https://services.gradle.org/distributions/gradle-8.9-bin.zip

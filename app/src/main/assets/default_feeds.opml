@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head><title>BanglaRead Default Feeds</title></head>
+  <body>
+    <outline text="Philosophy">
+      <outline text="Stanford Encyclopedia of Philosophy" type="rss" xmlUrl="https://plato.stanford.edu/rss.xml"/>
+      <outline text="Daily Stoic"                         type="rss" xmlUrl="https://dailystoic.com/feed/"/>
+      <outline text="Aeon"                                type="rss" xmlUrl="https://aeon.co/feed.rss"/>
+    </outline>
+    <outline text="Motivation">
+      <outline text="Zen Habits"   type="rss" xmlUrl="https://zenhabits.net/feed/"/>
+      <outline text="James Clear"  type="rss" xmlUrl="https://jamesclear.com/feed"/>
+      <outline text="Mark Manson"  type="rss" xmlUrl="https://markmanson.net/feed"/>
+    </outline>
+    <outline text="Literature">
+      <outline text="LitHub"       type="rss" xmlUrl="https://lithub.com/feed/"/>
+      <outline text="Poets.org"    type="rss" xmlUrl="https://poets.org/rss.xml"/>
+      <outline text="Paris Review" type="rss" xmlUrl="https://www.theparisreview.org/blog/feed/"/>
+    </outline>
+    <outline text="Psychology">
+      <outline text="Farnam Street" type="rss" xmlUrl="https://fs.blog/feed/"/>
+      <outline text="Ness Labs"     type="rss" xmlUrl="https://nesslabs.com/feed"/>
+      <outline text="Greater Good"  type="rss" xmlUrl="https://greatergood.berkeley.edu/rss"/>
+    </outline>
+    <outline text="Bangla News">
+      <outline text="Prothom Alo" type="rss" xmlUrl="https://www.prothomalo.com/feed"/>
+      <outline text="BDNews24"    type="rss" xmlUrl="https://www.bdnews24.com/?widgetName=rssfeed"/>
+    </outline>
+  </body>
+</opml>
